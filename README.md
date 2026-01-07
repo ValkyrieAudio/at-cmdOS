@@ -4,7 +4,7 @@
 
 	   Thanks for trying it out ! :)
 
-
+Download it here : https://payhip.com/b/rjyWc
 
 P.S. - You also need Chrome on your Computer\Laptop to use the Internet.
 	   If you accounter problems, send me a message.
