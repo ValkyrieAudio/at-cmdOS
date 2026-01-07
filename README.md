@@ -4,7 +4,9 @@
 	     Thanks for trying it out ! :)
 
 P.S. - You also need Chrome on your Computer\Laptop to use the Internet.
-       Make sure that you placed the BatchOS older in your Local Disk C://
+       Make sure that you placed the BatchOS Folder in your Local Disk C://
+
+Download it Here : 
 
 =====================================================
                      IMPORTANT
