@@ -7,6 +7,9 @@
 
 
 P.S. - You also need Chrome on your Computer\Laptop to use the Internet.
+	   If you accounter problems, send me a message.
+	   If you wanna test or modify it feel free to do so ! :)
+	   Just make sure to send me a message...
 
     Make sure that you placed the BatchOS Folder in your Local Disk C://
 
