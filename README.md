@@ -1,8 +1,8 @@
 # at-cmdOS
 
-		AT-CMD By Retromelon
+AT-CMD By Retromelon
 
-	   Thanks for trying it out ! :)
+Thanks for trying it out ! :)
 
 Download it here : https://payhip.com/b/rjyWc
 
